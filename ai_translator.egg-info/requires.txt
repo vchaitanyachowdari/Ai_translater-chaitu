@@ -1,0 +1,7 @@
+torch
+transformers
+torchaudio
+fastapi
+pydantic
+gtts
+soundfile

@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ai_translator
+Version: 0.1.0
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: torchaudio
+Requires-Dist: fastapi
+Requires-Dist: pydantic
+Requires-Dist: gtts
+Requires-Dist: soundfile
+Dynamic: requires-dist
